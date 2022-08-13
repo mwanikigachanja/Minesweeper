@@ -1,0 +1,2 @@
+# Minesweeper
+Codesignal Challenge
